@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.0",
+    "binary-parser": "^2.0.2",
     "express": "^4.17.2"
   }
 }
